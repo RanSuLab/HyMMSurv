@@ -1,5 +1,4 @@
 from models.model_layers.layers import *
-from models.model_layers.sheaf_builder import *
 import numpy as np
 import torch
 import torch.nn as nn
